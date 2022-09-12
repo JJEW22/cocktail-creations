@@ -16,9 +16,9 @@ export class AppComponent {
   }
 
   ngOnInit() {
-    this.sayHi()
-    this.getEmployee()
-    this.getAllEmployees()
+    // this.sayHi()
+    // this.getEmployee()
+    // this.getAllEmployees()
   }
 
   sayHi() {
