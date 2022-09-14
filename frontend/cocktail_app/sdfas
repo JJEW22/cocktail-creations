@@ -1,0 +1,11 @@
+
+
+remainer = a
+memeory = []
+for index in range(len(binary)):
+    whatever = a ^ 2
+    if binary[index] == 1:
+        product *= 9
+
+    whatever_mod = whater % mod 
+    memory.append(whatever_mod)
